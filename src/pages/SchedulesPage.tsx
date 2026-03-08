@@ -71,9 +71,11 @@ export default function SchedulesPage() {
     'علوم متكاملة': 'bg-purple-500',
     'لغة إنجليزية': 'bg-orange-500',
     'تربية إسلامية': 'bg-indigo-500',
-    'رياضة': 'bg-red-500',
+    'تاريخ': 'bg-red-500',
     'العاب': 'bg-pink-500',
     'اللغة الفرنسية': 'bg-yellow-500',
+    'نشاط': 'bg-cyan-500',
+    'فلسفة': 'bg-cyan-500',
     'برمجة': 'bg-cyan-500',
   };
 
